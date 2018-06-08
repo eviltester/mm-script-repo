@@ -20,8 +20,8 @@ https://github.com/yhatt/marp
 
 Amendments:
 
-20180607 - Created to support workshop slide generation and planning
-20180608 - Added comments for release to github https://github.com/eviltester/mm-script-repo
+- 20180607 - Created to support workshop slide generation and planning
+- 20180608 - Added comments for release to github https://github.com/eviltester/mm-script-repo
 
 */
 
